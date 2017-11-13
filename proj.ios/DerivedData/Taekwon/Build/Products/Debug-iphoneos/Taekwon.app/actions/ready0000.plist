@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>dir</key>
+		<string>coolgirl/ready/punch/</string>
+		<key>prefixfilename</key>
+		<string>punch_ready_0000</string>
+		<key>startno</key>
+		<integer>0</integer>
+		<key>filenum</key>
+		<integer>4</integer>
+		<key>delay</key>
+		<real>0.6</real>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>dir</key>
+		<string>coolgirl/ready/kick/</string>
+		<key>prefixfilename</key>
+		<string>punch_ready_0000</string>
+		<key>startno</key>
+		<integer>0</integer>
+		<key>filenum</key>
+		<integer>4</integer>
+		<key>delay</key>
+		<real>0.4</real>
+	</dict>
+</array>
+</plist>

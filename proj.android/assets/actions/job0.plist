@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>levelcutoff0</key>
+	<integer>10</integer>
+	<key>levelcutoff1</key>
+	<integer>20</integer>
+	<key>levelcutoff2</key>
+	<integer>30</integer>
+	<key>levelcutoff3</key>
+	<integer>40</integer>
+	<key>levelcutoff4</key>
+	<integer>50</integer>
+	<key>levelcutoff5</key>
+	<integer>60</integer>
+	<key>levelcutoff6</key>
+	<integer>70</integer>
+</dict>
+</plist>

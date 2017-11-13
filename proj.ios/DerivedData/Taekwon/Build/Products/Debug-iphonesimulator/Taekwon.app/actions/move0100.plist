@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>dir</key>
+		<string>musician/move/forward/</string>
+		<key>prefixfilename</key>
+		<string>move4_0000</string>
+		<key>startno</key>
+		<integer>0</integer>
+		<key>filenum</key>
+		<integer>8</integer>
+		<key>distance</key>
+		<integer>350</integer>
+		<key>delay</key>
+		<real>0.25</real>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>dir</key>
+		<string>musician/move/backward/</string>
+		<key>prefixfilename</key>
+		<string>move2_0000</string>
+		<key>startno</key>
+		<integer>0</integer>
+		<key>filenum</key>
+		<integer>8</integer>
+		<key>distance</key>
+		<integer>100</integer>
+		<key>delay</key>
+		<real>0.48</real>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>dir</key>
+		<string>musician/skill/hand/1/</string>
+		<key>prefixfilename</key>
+		<string>skill2_0000</string>
+		<key>startno</key>
+		<integer>0</integer>
+		<key>filenum</key>
+		<integer>17</integer>
+		<key>delay</key>
+		<real>0.6</real>
+		<key>power</key>
+		<integer>100</integer>
+		<key>powerhead</key>
+		<integer>20</integer>
+		<key>powerhand</key>
+		<integer>10</integer>
+		<key>powerfoot</key>
+		<integer>10</integer>
+		<key>jump</key>
+		<integer>0</integer>
+		<key>flip</key>
+		<integer>0</integer>
+		<key>touchframe</key>
+		<integer>9</integer>
+		<key>hotframe</key>
+		<integer>13</integer>
+		<key>hotspot</key>
+		<string>{95, 65}</string>
+		<key>kungfu</key>
+		<integer>10</integer>
+		<key>fitid</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

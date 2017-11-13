@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dir</key>
+	<string>musician/change/</string>
+	<key>prefixfilename</key>
+	<string>punch_change_0000</string>
+	<key>startno</key>
+	<integer>0</integer>
+	<key>filenum</key>
+	<integer>7</integer>
+	<key>delay</key>
+	<real>0.5</real>
+</dict>
+</plist>

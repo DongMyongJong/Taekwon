@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>dir</key>
+		<string>coolgirl/fit/skill/hand/1/</string>
+		<key>prefixfilename</key>
+		<string>damage3_0000</string>
+		<key>startno</key>
+		<integer>0</integer>
+		<key>filenum</key>
+		<integer>10</integer>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>hotframe</key>
+		<integer>4</integer>
+	</dict>
+</array>
+</plist>
